@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>51.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/object-detection/images/validation/51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2704</width>
+		<height>3612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>821</xmin>
+			<ymin>1444</ymin>
+			<xmax>1804</xmax>
+			<ymax>2205</ymax>
+		</bndbox>
+	</object>
+</annotation>

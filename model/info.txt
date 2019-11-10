@@ -1,0 +1,13 @@
+Model: 0.01
+Autor: Felipe Lopes
+Epochs: 30000
+Date: 2019-11-09
+Nº images:
+   Train:
+      - Banana: 626 - Most of the fruit 360 dataset.
+      - Apple: 75
+      - Orange: 70
+   Test:
+      - Banana: 214 - Most of the fruit 360 dataset.
+      - Apple: 19
+      - Orange: 18
