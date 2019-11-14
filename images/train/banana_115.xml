@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>banana_115.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/object-detection/images/train/banana_115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2704</width>
+		<height>3612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>760</xmin>
+			<ymin>905</ymin>
+			<xmax>2349</xmax>
+			<ymax>2400</ymax>
+		</bndbox>
+	</object>
+</annotation>

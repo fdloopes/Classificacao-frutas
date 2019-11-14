@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>mixed_21.jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\test\mixed_21.jpg</path>
+	<path>/home/fdlopes/Área de Trabalho/object-detection/images/test/mixed_21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,18 @@
 			<ymin>229</ymin>
 			<xmax>544</xmax>
 			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>56</ymin>
+			<xmax>422</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>
