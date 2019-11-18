@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>orange</folder>
 	<filename>orange_40.jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\train\orange_40.jpg</path>
+	<path>/home/fdlopes/Área de Trabalho/dataset/orange/orange_40.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>720</height>
+		<width>800</width>
+		<height>535</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>202</ymin>
-			<xmax>663</xmax>
-			<ymax>600</ymax>
+			<xmin>205</xmin>
+			<ymin>57</ymin>
+			<xmax>419</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>664</xmin>
-			<ymin>128</ymin>
-			<xmax>919</xmax>
-			<ymax>369</ymax>
+			<xmin>79</xmin>
+			<ymin>236</ymin>
+			<xmax>290</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>47</ymin>
+			<xmax>639</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>245</ymin>
+			<xmax>524</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>245</ymin>
+			<xmax>758</xmax>
+			<ymax>474</ymax>
 		</bndbox>
 	</object>
 </annotation>

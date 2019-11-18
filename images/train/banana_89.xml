@@ -1,13 +1,13 @@
 <annotation>
-	<folder>validation</folder>
-	<filename>51.jpg</filename>
-	<path>/home/fdlopes/Área de Trabalho/object-detection/images/validation/51.jpg</path>
+	<folder>banana</folder>
+	<filename>banana_89.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/banana/banana_89.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2704</width>
-		<height>3612</height>
+		<width>600</width>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>821</xmin>
-			<ymin>1444</ymin>
-			<xmax>1804</xmax>
-			<ymax>2205</ymax>
+			<xmin>146</xmin>
+			<ymin>130</ymin>
+			<xmax>334</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 </annotation>

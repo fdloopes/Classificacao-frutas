@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>banana</folder>
 	<filename>banana_9.jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\train\banana_9.jpg</path>
+	<path>/home/fdlopes/Área de Trabalho/dataset/banana/banana_9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2048</width>
-		<height>2728</height>
+		<width>500</width>
+		<height>374</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>822</xmin>
-			<ymin>381</ymin>
-			<xmax>1448</xmax>
-			<ymax>1519</ymax>
+			<xmin>327</xmin>
+			<ymin>125</ymin>
+			<xmax>448</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>140</ymin>
+			<xmax>391</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>147</ymin>
+			<xmax>323</xmax>
+			<ymax>334</ymax>
 		</bndbox>
 	</object>
 </annotation>

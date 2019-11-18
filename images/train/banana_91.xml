@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>Banana3.jpg</filename>
-	<path>/home/fdlopes/Área de Trabalho/images/Banana3.jpg</path>
+	<folder>banana</folder>
+	<filename>banana_91.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/banana/banana_91.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>478</width>
-		<height>395</height>
+		<width>800</width>
+		<height>620</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>10</ymin>
-			<xmax>458</xmax>
-			<ymax>380</ymax>
+			<xmin>234</xmin>
+			<ymin>331</ymin>
+			<xmax>693</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>122</ymin>
+			<xmax>776</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>22</ymin>
+			<xmax>670</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>orange</folder>
 	<filename>orange_32.jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\train\orange_32.jpg</path>
+	<path>/home/fdlopes/Área de Trabalho/dataset/orange/orange_32.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>293</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>50</xmin>
-			<ymin>98</ymin>
-			<xmax>248</xmax>
-			<ymax>289</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>orange</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>214</xmin>
-			<ymin>75</ymin>
-			<xmax>383</xmax>
-			<ymax>248</ymax>
+			<xmin>253</xmin>
+			<ymin>155</ymin>
+			<xmax>545</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 </annotation>

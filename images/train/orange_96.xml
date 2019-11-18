@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>orange_96.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/orange/orange_96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>268</ymin>
+			<xmax>399</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

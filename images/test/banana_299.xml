@@ -1,0 +1,26 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>banana_299.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/banana/banana_299.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>1548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>569</ymin>
+			<xmax>718</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

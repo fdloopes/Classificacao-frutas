@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>orange_158.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/orange/orange_158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3160</width>
+		<height>2072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1606</xmin>
+			<ymin>367</ymin>
+			<xmax>3102</xmax>
+			<ymax>1888</ymax>
+		</bndbox>
+	</object>
+</annotation>

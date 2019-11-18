@@ -1,13 +1,13 @@
 <annotation>
-	<folder>train</folder>
+	<folder>banana</folder>
 	<filename>banana_117.jpg</filename>
-	<path>/home/fdlopes/Área de Trabalho/object-detection/images/train/banana_117.jpg</path>
+	<path>/home/fdlopes/Área de Trabalho/dataset/banana/banana_117.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
-		<height>533</height>
+		<height>531</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
+			<xmin>278</xmin>
 			<ymin>100</ymin>
-			<xmax>632</xmax>
-			<ymax>451</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2</xmin>
-			<ymin>4</ymin>
-			<xmax>487</xmax>
-			<ymax>207</ymax>
+			<xmax>754</xmax>
+			<ymax>438</ymax>
 		</bndbox>
 	</object>
 </annotation>

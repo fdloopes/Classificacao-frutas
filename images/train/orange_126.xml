@@ -1,0 +1,38 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>orange_126.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/orange/orange_126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>73</ymin>
+			<xmax>413</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>51</ymin>
+			<xmax>754</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

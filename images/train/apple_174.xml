@@ -1,0 +1,38 @@
+<annotation>
+	<folder>apple</folder>
+	<filename>apple_174.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/apple/apple_174.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>322</ymin>
+			<xmax>574</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>334</ymin>
+			<xmax>721</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

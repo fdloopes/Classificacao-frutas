@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple</folder>
+	<filename>apple_270.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/dataset/apple/apple_270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>25</ymin>
+			<xmax>289</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>
