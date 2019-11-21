@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>apple_290.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/object-detection/images/train/apple_290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>145</ymin>
+			<xmax>400</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>115</ymin>
+			<xmax>758</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>
