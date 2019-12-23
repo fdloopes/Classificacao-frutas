@@ -1,0 +1,26 @@
+<annotation>
+	<folder>abacate</folder>
+	<filename>abacate_2560x1440_204.jpg</filename>
+	<path>/home/fdlopes/Área de Trabalho/object-detection/images/train/abacate/abacate_2560x1440_204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abacate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>678</ymin>
+			<xmax>1345</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>
