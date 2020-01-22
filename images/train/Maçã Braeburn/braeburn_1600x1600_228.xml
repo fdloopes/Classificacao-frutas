@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Maçã Braeburn</folder>
+	<filename>braeburn_1600x1600_228.jpg</filename>
+	<path>/home/fdlopes/TCC/dataset/train/Maçã Braeburn/braeburn_1600x1600_228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maçã braeburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>121</ymin>
+			<xmax>57</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
