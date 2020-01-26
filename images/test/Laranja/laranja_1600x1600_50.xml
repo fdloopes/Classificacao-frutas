@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Laranja</folder>
+	<filename>laranja_1600x1600_50.jpg</filename>
+	<path>/home/fdlopes/TCC/dataset/test/Laranja/laranja_1600x1600_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laranja</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>119</ymin>
+			<xmax>300</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

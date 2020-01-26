@@ -1,4 +1,8 @@
 item{
   id: 1
+  name: 'laranja'
+}
+item{
+  id: 2
   name: 'maçã braeburn'
 }
