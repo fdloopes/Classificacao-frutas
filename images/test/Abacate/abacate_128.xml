@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Abacate</folder>
+	<filename>abacate_128.jpg</filename>
+	<path>/home/fdlopes/TCC/dataset/test/Abacate/abacate_128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abacate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>26</ymin>
+			<xmax>299</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

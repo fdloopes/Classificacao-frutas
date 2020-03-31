@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banana</folder>
+	<filename>banana_1600x1600_381.jpg</filename>
+	<path>/home/fdlopes/TCC/dataset/train/Banana/banana_1600x1600_381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>119</ymin>
+			<xmax>55</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
