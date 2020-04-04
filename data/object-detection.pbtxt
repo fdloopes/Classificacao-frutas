@@ -4,13 +4,25 @@ item{
 }
 item{
   id: 2
-  name: 'banana'
+  name: 'abacaxi'
 }
 item{
   id: 3
-  name: 'laranja'
+  name: 'banana'
 }
 item{
   id: 4
+  name: 'goiaba'
+}
+item{
+  id: 5
+  name: 'laranja'
+}
+item{
+  id: 6
   name: 'maçã braeburn'
+}
+item{
+  id: 7
+  name: 'mamão'
 }

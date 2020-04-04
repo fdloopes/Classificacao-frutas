@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mamão</folder>
+	<filename>mamao_1600x1600_197.jpg</filename>
+	<path>/home/fdlopes/TCC/Dataset_TCC/train/Mamão/mamao_1600x1600_197.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mamão</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>117</ymin>
+			<xmax>56</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

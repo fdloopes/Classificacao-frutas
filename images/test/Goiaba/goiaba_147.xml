@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Goiaba</folder>
+	<filename>goiaba_147.jpg</filename>
+	<path>/home/fdlopes/TCC/Dataset_TCC/test/Goiaba/goiaba_147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goiaba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>18</ymin>
+			<xmax>294</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

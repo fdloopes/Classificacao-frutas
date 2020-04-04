@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Abacaxi</folder>
+	<filename>abacaxi_3000x3000_117.jpg</filename>
+	<path>/home/fdlopes/TCC/Dataset_TCC/test/Abacaxi/abacaxi_3000x3000_117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abacaxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>268</ymin>
+			<xmax>166</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>
