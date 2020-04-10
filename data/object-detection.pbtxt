@@ -12,17 +12,61 @@ item{
 }
 item{
   id: 4
-  name: 'goiaba'
+  name: 'carambola'
 }
 item{
   id: 5
-  name: 'laranja'
+  name: 'coco'
 }
 item{
   id: 6
-  name: 'maçã braeburn'
+  name: 'goiaba'
 }
 item{
   id: 7
+  name: 'kiwi'
+}
+item{
+  id: 8
+  name: 'laranja'
+}
+item{
+  id: 9
+  name: 'Limão'
+}
+item{
+  id: 10
+  name: 'maçã braeburn'
+}
+item{
+  id: 11
   name: 'mamão'
+}
+item{
+  id: 12
+  name: 'manga'
+}
+item{
+  id: 13
+  name: 'maracujá'
+}
+item{
+  id: 14
+  name: 'nectarina'
+}
+item{
+  id: 15
+  name: 'pera'
+}
+item{
+  id: 16
+  name: 'pêssego'
+}
+item{
+  id: 17
+  name: 'pitaia'
+}
+item{
+  id: 18
+  name: 'tangerina'
 }
