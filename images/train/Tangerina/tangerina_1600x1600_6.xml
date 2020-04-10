@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Tangerina</folder>
+    <filename>tangerina_1600x1600_6.jpg</filename>
+    <path>/home/fdlopes/TCC/Dataset_TCC/train/Tangerina/tangerina_1600x1600_6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tangerina</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>124</ymin>
+            <xmax>53</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+</annotation>

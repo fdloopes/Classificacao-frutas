@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Kiwi</folder>
+    <filename>kiwi_1600x1600_45.jpg</filename>
+    <path>/home/fdlopes/TCC/Dataset_TCC/test/Kiwi/kiwi_1600x1600_45.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>kiwi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>244</xmin>
+            <ymin>127</ymin>
+            <xmax>300</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>
+</annotation>

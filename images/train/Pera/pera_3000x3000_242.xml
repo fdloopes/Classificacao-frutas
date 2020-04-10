@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Pera</folder>
+    <filename>pera_3000x3000_242.jpg</filename>
+    <path>/home/fdlopes/TCC/Dataset_TCC/train/Pera/pera_3000x3000_242.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pera</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>138</xmin>
+            <ymin>1</ymin>
+            <xmax>164</xmax>
+            <ymax>31</ymax>
+        </bndbox>
+    </object>
+</annotation>
