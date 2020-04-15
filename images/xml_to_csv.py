@@ -26,7 +26,7 @@ def xml_to_csv(path):
 
 
 def main():
-    for directory in ['images/train','images/test']:
+    for directory in ['train','test']:
         image_path = os.path.join(os.getcwd(), '{}/*'.format(directory))
         xml_df = xml_to_csv(image_path)
         xml_df.to_csv('data/{}_labels.csv'.format(directory), index=None)
