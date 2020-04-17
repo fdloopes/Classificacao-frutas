@@ -32,39 +32,39 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'abacate':
         return 1
-    if row_label == 'abacaxi':
+    elif row_label == 'abacaxi':
         return 2
-    if row_label == 'banana':
+    elif row_label == 'banana':
         return 3
-    if row_label == 'carambola':
+    elif row_label == 'carambola':
         return 4
-    if row_label == 'coco':
+    elif row_label == 'coco':
         return 5
-    if row_label == 'goiaba':
+    elif row_label == 'goiaba':
         return 6
-    if row_label == 'kiwi':
+    elif row_label == 'kiwi':
         return 7
-    if row_label == 'laranja':
+    elif row_label == 'laranja':
         return 8
-    if row_label == 'limão':
+    elif row_label == 'limão':
         return 9
-    if row_label == 'maçã braeburn':
+    elif row_label == 'maçã braeburn':
         return 10
-    if row_label == 'mamão':
+    elif row_label == 'mamão':
         return 11
-    if row_label == 'manga':
+    elif row_label == 'manga':
         return 12
-    if row_label == 'maracujá':
+    elif row_label == 'maracujá':
         return 13
-    if row_label == 'nectarina':
+    elif row_label == 'nectarina':
         return 14
-    if row_label == 'pera':
+    elif row_label == 'pera':
         return 15
-    if row_label == 'pêssego':
+    elif row_label == 'pêssego':
         return 16
-    if row_label == 'pitaia':
+    elif row_label == 'pitaia':
         return 17
-    if row_label == 'tangerina':
+    elif row_label == 'tangerina':
         return 18
     else:
         0
